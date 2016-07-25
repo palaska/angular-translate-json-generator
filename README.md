@@ -1,5 +1,7 @@
 ### Intro
 
+#### This script is a parser which looks for angular-translate entities in HTML and JS files and adds them to locale JSONs.
+
  - Project structure: https://github.com/angular-fullstack/generator-angular-fullstack
  - Designed specifically for: https://github.com/angular-translate/angular-translate
 
