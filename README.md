@@ -1,7 +1,7 @@
 ### Intro
 
-Project structure: https://github.com/angular-fullstack/generator-angular-fullstack
-Designed specifically for: https://github.com/angular-translate/angular-translate
+ - Project structure: https://github.com/angular-fullstack/generator-angular-fullstack
+ - Designed specifically for: https://github.com/angular-translate/angular-translate
 
 ### Usage
 
